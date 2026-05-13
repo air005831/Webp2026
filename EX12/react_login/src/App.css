@@ -3,7 +3,7 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-image: url('https://www.blockbench.net/_nuxt/4.10.b3hQJGYO.webp');
+  background-image: url('./background.webp');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
