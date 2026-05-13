@@ -1,0 +1,4 @@
+建立一個react_datagrid專案
+參考index 和 script獲取資料放到datagrid中
+利用useEffect呼叫api更新datagrid
+.gitignore加上build 和 node_modules不要上傳git
