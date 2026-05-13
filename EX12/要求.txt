@@ -1,0 +1,3 @@
+用react建立一個login前端介面，可以輸入email 和 password 還有sing in 按鈕
+專案名叫react_login
+.gitignore加上build 和 node_modules不要上傳git
